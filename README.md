@@ -9,9 +9,6 @@ This repository is a curated collection of innovative AVS project ideas for deve
 1. **Explore Project Ideas**: Browse through the list of AVS project ideas in this repository. Each idea is detailed, providing a comprehensive overview to help you understand the potential and scope of the project.
 2. **Select a Project**: Choose a project that aligns with your interests and skills. Each idea includes technical details, potential challenges, and a suggested implementation plan to guide you.
 
-## Getting Started
-To get started, review the list of AVS project ideas below. Each idea has its own detailed proposal that outlines the problem statement, proposed solution, benefits, technical details, use cases, and more. These ideas are curated by the EigenLayer team and represent valuable contributions to the broader Web3 ecosystem.
-
 ## Project Ideas
 
 1. **AI Inference**
