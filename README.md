@@ -9,6 +9,47 @@ This repository is a curated collection of innovative AVS project ideas for deve
 1. **Explore Project Ideas**: Browse through the list of AVS project ideas in this repository. Each idea is detailed, providing a comprehensive overview to help you understand the potential and scope of the project.
 2. **Select a Project**: Choose a project that aligns with your interests and skills. Each idea includes technical details, potential challenges, and a suggested implementation plan to guide you.
 
+## Getting Started
+To get started, review the list of AVS project ideas below. Each idea has its own detailed proposal that outlines the problem statement, proposed solution, benefits, technical details, use cases, and more. These ideas are curated by the EigenLayer team and represent valuable contributions to the broader Web3 ecosystem.
+
+## Project Ideas
+
+1. **AI Inference**
+   - [AI Inference](ideas/ai-inference.md)
+   - Summary: Implement AI inference onchain using EigenLayer to leverage its decentralized trust and economic mechanisms, ensuring program integrity, session privacy, and supporting federated learning.
+
+2. **Inbound and Outbound Bridge**
+   - [Inbound and Outbound Bridge](ideas/inbound-outbound-bridge.md)
+   - Summary: Utilize a decentralized network of relay operators on EigenLayer to enhance the resilience and security of cross-chain bridges.
+
+3. **Keeper Network**
+   - [Keeper Network](ideas/keeper-network.md)
+   - Summary: Deploy nodes to respond to 'if-this-then-that' demands for both non-time-sensitive and time-sensitive actions, leveraging Ethereum inclusion trust via EigenLayer.
+
+4. **MEV Management**
+   - [MEV Management](ideas/mev-management.md)
+   - Summary: Introduce MEV-Boost+ and MEV-Boost++ to enable proposers to have both transaction inclusion power and MEV rewards, enhancing Ethereum’s liveness and censorship resistance.
+
+5. **Relay Networks**
+   - [Relay Networks](ideas/relay-networks.md)
+   - Summary: Implement a decentralized network of relay operators on EigenLayer to support bridge operations and provide dApp developers with robust and flexible bridging solutions.
+
+6. **Reorg Resistance**
+   - [Reorg Resistance](ideas/reorg-resistance.md)
+   - Summary: Develop a service to guarantee nodes with substantial stake in Ethereum attest to the block header of the most recently finalized block, ensuring resistance to chain reorganizations.
+
+7. **Trusted Execution Environment (TEE) Committees**
+   - [Trusted Execution Environment (TEE) Committees](ideas/tee-committes.md)
+   - Summary: Construct decentralized TEE Committees through EigenLayer, enhancing the reliability of any committee by requiring multiple distinct TEE models and economic trust.
+
+8. **Threshold Cryptography**
+   - [Threshold Cryptography](ideas/threshold-cryptography.md)
+   - Summary: Implement threshold cryptography using EigenLayer nodes to perform distributed computation on encrypted data, delivering robust privacy guarantees.
+
+9. **Threshold Fully Homomorphic Encryption (FHE)**
+   - [Threshold Fully Homomorphic Encryption (FHE)](ideas/threshold-fhe.md)
+   - Summary: Enable distributed computation on encrypted data using EigenLayer nodes for threshold FHE, ensuring privacy and security while performing computations on sensitive data.
+
 ## Sharing Updates
 
 ### Interested in Building?
@@ -20,12 +61,6 @@ If you decide to build one of the ideas from this repository:
 If you successfully complete one of the projects:
 - **Submit a Pull Request (PR)**: Post a PR to this repository. We will review your submission and, once approved, tag your hosted project next to the original idea. This will help others see your work and inspire further innovation.
 - **Get Exposure**: Tweet out your completed project to @BuildOnEigen to gain more exposure and receive confirmation on proof of concept. This can help you connect with a wider audience and showcase your work to potential collaborators and investors.
-
-## Categories
-
-Our project ideas are categorized to help you find concepts that match your interests:
-
-- Keeper Network
 
 ## Contributing
 
