@@ -52,7 +52,6 @@ This repository is a curated collection of innovative AVS project ideas for deve
 ### Interested in Building?
 If you decide to build one of the ideas from this repository:
 - **Share Your Progress**: Head over to the [Discussions](https://github.com/avs-ideas/discussions) section to share your updates. Connect with like-minded community members, seek advice, and collaborate.
-- **Get Mentored By Eigen Labs Team**: If you choose to build one of these projects, the Eigen Labs team will provide the necessary technical and foundational guidance. You can also receive mentorship. Contact Gajesh Naik at gajesh@eigenlabs.org for more information and support.
 
 ### Completed a Project?
 If you successfully complete one of the projects:
