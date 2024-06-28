@@ -47,6 +47,15 @@ This repository is a curated collection of innovative AVS project ideas for deve
    - [Threshold Fully Homomorphic Encryption (FHE)](ideas/threshold-fhe.md)
    - Summary: Enable distributed computation on encrypted data using EigenLayer nodes for threshold FHE, ensuring privacy and security while performing computations on sensitive data.
 
+10. **Ceramic Node Operator AVS**
+   - Summary: This project request is to build an AVS network of Ceramic Node operators for the Ceramic user community so that they can enhance decentralized trust in the service and enable rewards for operators and their stakers.
+   - Ideas: Start with the existing [Ceramic node binary](https://developers.ceramic.network/docs/protocol/js-ceramic/nodes/running-a-node). Build an offchain daemon that integrates the nodes behaviors with. You may use the [pinception offchain daemon](https://github.com/wesfloyd/pinception/blob/main/operator/pinner-ipfsd.js) as an example.
+
+11. **Decentralized HTTP Load Balancer Network**
+   - Summary: many web3 services would like to make calls to a known set of available server endpoints for a variety of tasks. Currently there isn't a Web3 analogue to services such as the [Google Load Balancer](https://cloud.google.com/load-balancing/docs/application-load-balancer) or [AWS Global Accelerator](https://aws.amazon.com/global-accelerator/) . This may also be used as a component in an alternative architecture for DNSs for future "consumer" web3 apps.
+   - Ideas: implement a simple network of Operators that implement a basic proxy service (eg [node-http-proxy](https://github.com/http-party/node-http-proxy)) and forward those requests as needed per the service configuration. The list of Operator IP addresses can be registered and maintained on-chain when operators opt-in to the AVS, copying EigenDA's approach for its blob storing Operator instances. Clients invoking the service can simply read the state of the AVS contracts to get the list of available Operator endpoints and invoke them round-robin as needed to emulate the services of a global load balancer. 
+
+
 ## Sharing Updates
 
 ### Interested in Building?
